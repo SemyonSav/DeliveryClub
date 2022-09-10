@@ -389,6 +389,7 @@ section {
 .tabs_list {
     display: flex;
     flex-wrap: wrap;
+    margin-top: 50px;
 }
 
 .tabs_item {
@@ -642,4 +643,8 @@ section {
 .down_btn_container {
     padding-top: 16px;
     padding-bottom: 32px;
+}
+
+.star_img {
+    filter: opacity(60%);
 }
